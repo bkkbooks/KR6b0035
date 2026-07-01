@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 九色鹿經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0181a.xml
+    old_id: T03n0181a
+hash: sha256:0e94806646a09109e2a10730e3a0d637c6b04a3e2b888ef496fc7e4b9953554f

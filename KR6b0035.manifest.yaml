@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6b0035/v1
+canonical_location: https://kanripo.org/bkk/KR6b0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 九色鹿經
+  identifiers:
+    alt_id:
+    - T03n0181a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0181a.xml
+    old_id: T03n0181a
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0035_000.yaml, hash: 'sha256:0e94806646a09109e2a10730e3a0d637c6b04a3e2b888ef496fc7e4b9953554f'}
+  - {seq: 1, filename: KR6b0035_001.yaml, hash: 'sha256:2bdc4fc73a22dd1c21d03b9aee89a08c30a6ebfdfb4efb8f16f4965bca83ebbd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0035_001.markers.yaml, hash: 'sha256:e330f46dc93400378b0ab57a37c9efce967f1be002515ecd899293b8c27c6cce'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0035_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 926
+  label: 佛說九色鹿經一卷
+  type: juan
+  level: 1
+hash: sha256:3ad00e65464dcabb47ecda2111454181b299ec5439e99cc6b056816d7b25476e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
