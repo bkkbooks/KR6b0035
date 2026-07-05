@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6b0035_000.yaml, hash: 'sha256:0e94806646a09109e2a10730e3a0d637c6b04a3e2b888ef496fc7e4b9953554f'}
-  - {seq: 1, filename: KR6b0035_001.yaml, hash: 'sha256:2bdc4fc73a22dd1c21d03b9aee89a08c30a6ebfdfb4efb8f16f4965bca83ebbd'}
+  - {seq: 1, filename: KR6b0035_001.yaml, hash: 'sha256:2399018018e8f39101455513c99fee6b913b06b0ce2b1fd49782fc76aa868edd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0035_001.markers.yaml, hash: 'sha256:e330f46dc93400378b0ab57a37c9efce967f1be002515ecd899293b8c27c6cce'}
+  - {seq: 0, role: markers, filename: assets/KR6b0035_000.markers.yaml, hash: 'sha256:3e45da467c0395f5bb3b7db71ae09cb6b1d27db1b0aefeb98ffbc745d3e4ed10'}
+  - {seq: 1, role: markers, filename: assets/KR6b0035_001.markers.yaml, hash: 'sha256:16a9c73954f96a0e3a0553cbf26434971638f3fa14833f64ab290e967b4609b8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 佛說九色鹿經一卷
   type: juan
   level: 1
-hash: sha256:3ad00e65464dcabb47ecda2111454181b299ec5439e99cc6b056816d7b25476e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ab343a3a39545d7544c9a1eba674bf9f4834623444236585e5a4e27821c87d7e
 editions:
 - short: T
